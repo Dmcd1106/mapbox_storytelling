@@ -80,7 +80,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Themes of Novel',
-            image: 'firestone_hall.jpg',
+            image: 'assets/firestone_farm.jpg',
             description: 'Heres some themes about the book',
             location: {
                 center: [-83.5573651, 32.5573651], 
