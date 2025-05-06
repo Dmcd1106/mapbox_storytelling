@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Someplace Georgia',
-            image: 'keezel_hall.jpg',
+            image: 'assets/keezel hall.jpg',
             description: 'Description of the second location.',
             location: {
                 center: [-83.5573651, 32.5573651], 
