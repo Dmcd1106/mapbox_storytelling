@@ -76,6 +76,31 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'Someplace Georgia',
+            image: 'keezel_hall.jpg',
+            description: 'Description of the second location.',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
