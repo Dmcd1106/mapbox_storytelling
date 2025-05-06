@@ -77,7 +77,7 @@ var config = {
         },
         {
             id: 'chapter-Themes',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Themes of Novel',
             image: 'assets/firestone_farm.jpg',
