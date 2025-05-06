@@ -139,10 +139,10 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-Extra',
-            alignment: 'right',
+            id: 'chapter-AILD',
+            alignment: 'centered',
             hidden: false,
-            title: 'Themes of Novel',
+            title: 'As I Lay Dying',
             image: 'assets/firestone_farm.jpg',
             description: 'Heres some themes about the book',
             location: {
