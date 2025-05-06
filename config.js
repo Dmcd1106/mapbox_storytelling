@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'The Color Purple Digital Essay2',
     subtitle: 'Spatial Journeys across the South',
-    byline: 'My Name',
+    byline: 'Damien McDonald',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -76,12 +76,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-Themes',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
-            image: 'keezel_hall.jpg',
-            description: 'Description of the second location.',
+            title: 'Themes of Novel',
+            image: 'firestone_hall.jpg',
+            description: 'Heres some themes about the book',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
