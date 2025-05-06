@@ -15,7 +15,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'The Color Purple Digital Essay2',
+    title: 'Agency in Southern Women in Regard to Race: A Digital Essay',
     subtitle: 'Spatial Journeys across the South',
     byline: 'Damien McDonald',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
