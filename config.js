@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/dmcd06/cm9ix5dwl002d01qm9meafsr4',
+    style: 'mapbox://styles/dmcd06/cmacuiy9u00r001s01ukfhn40',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoiZG1jZDA2IiwiYSI6ImNtOTdzZHU1eDBhb2Uya3B0MGllODl0c2wifQ.fmTXvvPvd31uzDwDA0qNRg',
     showMarkers: false,
