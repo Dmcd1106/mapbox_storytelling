@@ -212,12 +212,12 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },{
-            id: 'chapter-one',
-            alignment: 'right',
+            id: 'chapter-Their eyes were watching God',
+            alignment: 'Centered',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Their Eyes were watching God',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of the second location.',
+            description: 'Description of TEWWG...',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -236,12 +236,12 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },{
-            id: 'chapter-one',
-            alignment: 'right',
+            id: 'chapter-movement',
+            alignment: 'left',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Movement in Florida',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of the second location.',
+            description: 'Description of the movemnt here.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
