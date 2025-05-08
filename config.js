@@ -219,7 +219,7 @@ var config = {
             image: 'assets/keezel hall.jpg',
             description: 'Description of TEWWG...',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-81.38643808,28.6185791], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
