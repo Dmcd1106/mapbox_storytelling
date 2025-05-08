@@ -243,7 +243,7 @@ var config = {
             image: 'assets/keezel hall.jpg',
             description: 'Description of the movemnt here.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-80.44334557,26.8347516], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
