@@ -79,11 +79,11 @@ var config = {
             id: 'chapter-Movement',
             alignment: 'left',
             hidden: false,
-            title: 'Themes of Novel',
+            title: 'Movement of Novel',
             image: 'assets/firestone_farm.jpg',
             description: 'Heres the movement',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-10.380621629,6.246110209], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
