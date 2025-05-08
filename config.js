@@ -188,12 +188,12 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },{
-            id: 'chapter-one',
-            alignment: 'right',
+            id: 'chapter-end of AILD',
+            alignment: 'Centered',
             hidden: false,
             title: 'Someplace Georgia',
             image: 'assets/keezel hall.jpg',
-            description: 'The Color Purple is a beautiful novel telling the story of Celie and her life along with her sister Nettie through Letters. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery.',
+            description: 'The over-arching themes in this novel are: XYZ and this shows how families movement paints a picture of agency especially in women.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
