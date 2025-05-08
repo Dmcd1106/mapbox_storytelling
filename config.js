@@ -76,12 +76,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-Themes',
+            id: 'chapter-Movement',
             alignment: 'left',
             hidden: false,
             title: 'Themes of Novel',
             image: 'assets/firestone_farm.jpg',
-            description: 'Heres some themes about the book',
+            description: 'Heres the movement',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
