@@ -146,7 +146,7 @@ var config = {
             image: 'assets/firestone_farm.jpg',
             description: 'Heres some themes about the book',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-89.4912723,34.28465033], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
