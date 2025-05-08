@@ -143,7 +143,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'As I Lay Dying',
-            image: 'assets/firestone_farm.jpg',
+            image: 'assets/AILD_cover.jpg',
             description: 'As I Lay Dying is a story of a sounthern family troubled with grief and structural family issues going through the trials of burrying Addie Bundren, wife and mother of five main character children. The book records their difficult journey to Jefferson Mississippi, to bury Addie as per her dying request. The family meets several obsticles on their way and after nine days post mortum Addie is finally laid to rest and the family structure is just as fractured as it was in the beginning.',
             location: {
                 center: [-89.4912723,34.28465033], 
