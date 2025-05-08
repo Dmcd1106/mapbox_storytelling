@@ -52,7 +52,7 @@ var config = {
         },
         {
             id: 'chapter-intro',
-            alignment: 'right',
+            alignment: 'Centered',
             hidden: false,
             title: 'The Color Purple',
             image: './assets/color_purple_cover.jpg',
