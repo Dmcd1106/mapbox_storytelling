@@ -236,12 +236,12 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },{
-            id: 'chapter-movement',
+            id: 'chapter-themes/ending',
             alignment: 'left',
             hidden: false,
-            title: 'Movement in Florida',
+            title: 'Agency and Themes',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of the movemnt here.',
+            description: 'Description of the themes here.',
             location: {
                 center: [-80.44334557,26.8347516], 
                 zoom: 6.5,
@@ -259,6 +259,30 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        },
+        },{
+            id: 'chapter-Their eyes were watching God',
+            alignment: 'Centered',
+            hidden: false,
+            title: 'Their Eyes were watching God',
+            image: 'assets/keezel hall.jpg',
+            description: 'Description of TEWWG...',
+            location: {
+                center: [-81.38643808,28.6185791], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }
     ]
 };
