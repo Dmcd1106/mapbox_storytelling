@@ -164,12 +164,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-movement',
             alignment: 'right',
             hidden: false,
             title: 'Someplace Georgia',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of the second location.',
+            description: 'As I lay Daying Usually stays pretty stationary and the women in this novel tend to travel with their families, much like Salvage the Bones. The only women in the novel are younger sister Dewey Dell, and deceased mother Addie Bundren, who both make their way to Jefferson Mississippi. However, They are at the whim of the men in the story. There isn"t much movement in the story, however this looks at the story of a southern white family.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
