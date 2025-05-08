@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple',
-            image: 'assets/keezel hall.jpg',
+            image: './assets/color_purple_cover.jpg',
             description: 'Description of the second location.',
             location: {
                 center: [-83.5573651, 32.5573651], 
