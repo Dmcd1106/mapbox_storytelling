@@ -101,25 +101,6 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-two',
-            alignment: 'left',
-            hidden: false,
-            title: 'Olinka',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
-            location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
@@ -280,6 +261,24 @@ var config = {
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },{
+            id: 'chapter-conclusion',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Olinka',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
