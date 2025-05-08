@@ -51,10 +51,10 @@ var config = {
             ]
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-intro',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'The Color Purple',
             image: 'assets/keezel hall.jpg',
             description: 'Description of the second location.',
             location: {
