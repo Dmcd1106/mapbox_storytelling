@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Women Agency in the South',
             image: './assets/color_purple_cover.jpg',
-            description: 'The Color Purple is a beautiful novel telling the story of Celie and her life along with her sister Nettie through Letters. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery.',
+            description: 'Describe the themese',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -193,7 +193,7 @@ var config = {
             hidden: false,
             title: 'Someplace Georgia',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of the second location.',
+            description: 'The Color Purple is a beautiful novel telling the story of Celie and her life along with her sister Nettie through Letters. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
