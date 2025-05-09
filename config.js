@@ -220,9 +220,9 @@ var config = {
             id: 'chapter-themes/ending',
             alignment: 'left',
             hidden: false,
-            title: 'Agency and Themes',
+            title: 'Movement',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of the themes here.',
+            description: 'This novel has the most data points across all of the novels. Janie startrs her journey in [xxx]. After her first relationship ends, Janie moves with Tea Cake to southern Florida where the hurricane strikes and relocates after that.',
             location: {
                 center: [-80.44334557,26.8347516], 
                 zoom: 6.5,
