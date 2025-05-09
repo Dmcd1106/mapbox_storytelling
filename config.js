@@ -18,7 +18,7 @@ var config = {
     title: 'Agency in Southern Women in Regard to Race: A Digital Essay',
     subtitle: 'Spatial Journeys across the South',
     byline: 'Damien McDonald',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: Walker, Alice. The Color Purple. Harcourt, 1982.,Faulkner, William. As I Lay Dying. Vintage International, 1990.,Hurston, Zora Neale. Their Eyes Were Watching God. Harper Perennial Modern Classics, 2006. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'opening',
