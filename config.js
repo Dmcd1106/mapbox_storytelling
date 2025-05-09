@@ -197,7 +197,7 @@ var config = {
             alignment: 'Centered',
             hidden: false,
             title: 'Their Eyes were watching God',
-            image: 'assets/keezel hall.jpg',
+            image: 'assets/TEWWG coverrr.jpg',
             description: 'Description of TEWWG...',
             location: {
                 center: [-81.38643808,28.6185791], 
