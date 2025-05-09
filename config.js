@@ -268,11 +268,11 @@ var config = {
             id: 'chapter-conclusion',
             alignment: 'fully',
             hidden: false,
-            title: 'Olinka',
+            title: 'Conclusion',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-90.3150946, 38.6605671], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
