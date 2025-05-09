@@ -273,8 +273,8 @@ var config = {
             description: 'Description of the Olinka people',
             location: {
                 center: [-90.3150946, 38.6605671], 
-                zoom: 8.00,
-                pitch: 45.0,
+                zoom: 4,
+                pitch: 60.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
