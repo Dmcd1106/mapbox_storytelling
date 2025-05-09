@@ -221,7 +221,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Movement',
-            image: 'assets/keezel hall.jpg',
+            image: 'assets/Realer queens.jpg',
             description: 'This novel has the most data points across all of the novels. Janie startrs her journey in [xxx]. After her first relationship ends, Janie moves with Tea Cake to southern Florida where the hurricane strikes and relocates after that.',
             location: {
                 center: [-80.44334557,26.8347516], 
