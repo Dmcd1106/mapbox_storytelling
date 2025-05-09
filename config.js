@@ -81,7 +81,7 @@ var config = {
             hidden: false,
             title: 'Movement of Novel',
             image: 'assets/Nettie in Africa.jpg',
-            description: 'Heres the movement',
+            description: 'There is an unexpected amount of movement in this novel. As seen here Nettie travels from Gerogia to Africa, and from there stops in London for a spell before returning to Georgia. Shug Avery also makes frequent trips from Memphis, Tennessee to Macon, Georgia, as her career has given her the ability to travel often on tour. Lastly, Celie moves from west Georia to Macon and travels to prison, Sophias house and her original home which she later owns in the book.',
             location: {
                 center: [-10.380621629,6.246110209], 
                 zoom: 6.5,
