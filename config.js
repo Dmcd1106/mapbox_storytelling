@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Women Agency in the South',
-            image: './assets/color_purple_cover.jpg',
+            image: 'assets/Queens.jpg',
             description: 'Describe the themese',
             location: {
                 center: [-90.3150946, 38.6605671],
