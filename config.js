@@ -198,7 +198,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes were watching God',
             image: 'assets/TEWWG coverrr.jpg',
-            description: 'Description of TEWWG...',
+            description: 'Their Eyes Were Watching God is a story that follows Janie Crawford in her search for love across Florida in the midst of segregation. Later their house floods from an unexpectedly horrific hurricane that relocates Janie and her love interest Tea Cake.',
             location: {
                 center: [-81.38643808,28.6185791], 
                 zoom: 6.5,
