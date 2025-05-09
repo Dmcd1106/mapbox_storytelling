@@ -244,7 +244,7 @@ var config = {
             id: 'chapter-Their eyes were watching God',
             alignment: 'Centered',
             hidden: false,
-            title: 'Their Eyes were watching God',
+            title: 'Thematic Agency',
             image: 'assets/keezel hall.jpg',
             description: 'Description of TEWWG...',
             location: {
