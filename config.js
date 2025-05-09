@@ -9,7 +9,7 @@ var config = {
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/
     inset: true,
     insetOptions: {
-        markerColor: 'orange'
+        markerColor: 'Purple'
     },
     insetPosition: 'bottom-right',
     theme: 'light',
