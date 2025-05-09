@@ -176,7 +176,7 @@ var config = {
             image: 'assets/keezel hall.jpg',
             description: 'The over-arching themes in this novel are: XYZ and this shows how families movement paints a picture of agency especially in women.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-89.512580,34.3697383], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
