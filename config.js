@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Movement of Novel',
-            image: 'assets/firestone_farm.jpg',
+            image: 'assets/Nettie in Africa.jpg',
             description: 'Heres the movement',
             location: {
                 center: [-10.380621629,6.246110209], 
