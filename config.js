@@ -269,8 +269,8 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Conclusion',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            image: 'assets/Realer queens.jpg',
+            description: 'These books describe the movement of several important charcters that paints a picture of agency specifically in women. As seen in As I Lay Dying, agency was limited by the familial struggles and the social status demonstrated. This futhers when looking at The Color Purple, as social status increases more momvement is made.',
             location: {
                 center: [-90.3150946, 38.6605671], 
                 zoom: 3,
