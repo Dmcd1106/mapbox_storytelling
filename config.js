@@ -198,7 +198,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes were watching God',
             image: 'assets/TEWWG coverrr.jpg',
-            description: 'Their Eyes Were Watching God is a story that follows Janie Crawford in her search for love across Florida in the midst of segregation. Later their house floods from an unexpectedly horrific hurricane that relocates Janie and her love interest Tea Cake.',
+            description: 'Their Eyes Were Watching God is a story that follows Janie Crawford in her search for love across Florida in the midst of segregation. After being promised to Logan Killicks, Janie is whicked away by the charming Joe Starks. However, after years of marriage and abuse with Joe, he then dies leaving her to find Tea Cake who gives her the love she has desiered. Later their house floods from an unexpectedly horrific hurricane that relocates Janie and her love interest Tea Cake. After the death of Tea Cake Janie faces trail and recounts her life to a friend from her hometown.',
             location: {
                 center: [-81.38643808,28.6185791], 
                 zoom: 6.5,
