@@ -174,7 +174,7 @@ var config = {
             hidden: false,
             title: 'Thematic Relation',
             image: 'assets/keezel hall.jpg',
-            description: 'This novel discusses familial ties, grief, and travel. How the family travels paints a picture of agency especially in women as Dewel Dell does not explore life outside of Yoknapatawpha (Oxford for the sake of mapping), nor is she able to.',
+            description: 'This novel discusses familial ties, grief, and travel. How the family travels paints a picture of agency especially in women as Dewel Dell does not explore life outside of Yoknapatawpha (Oxford for the sake of mapping), nor is she able to. This is because of her socioeconomic status as her family is poor and she is pregnant, along with her and her mother being at the whim of the men in her family.',
             location: {
                 center: [-89.512580,34.3697383], 
                 zoom: 6.5,
