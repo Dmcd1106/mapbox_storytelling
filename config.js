@@ -79,9 +79,9 @@ var config = {
             id: 'chapter-Movement',
             alignment: 'left',
             hidden: false,
-            title: 'Movement of Novel',
+            title: 'Tracking Movement',
             image: 'assets/Nettie in Africa.jpg',
-            description: 'There is an unexpected amount of movement in this novel. As seen here Nettie travels from Gerogia to Africa, and from there stops in London for a spell before returning to Georgia. Shug Avery also makes frequent trips from Memphis, Tennessee to Macon, Georgia, as her career has given her the ability to travel often on tour. Lastly, Celie moves from west Georia to Macon and travels to prison, Sophias house and her original home which she later owns in the book.',
+            description: 'There is an unexpected amount of movement in this novel. As seen here Nettie travels from Gerogia to Africa, and from there stops in London for a spell before returning to Georgia. Shug Avery also makes frequent trips from Memphis, Tennessee to Macon, Georgia, as her career has given her the ability to travel often on tour. Lastly, Celie moves from west Georgia to Macon and travels to prison, Sophias house and her original home which she later owns in the book.',
             location: {
                 center: [-10.380621629,6.246110209], 
                 zoom: 6.5,
@@ -104,7 +104,7 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'Thematic Agency',
             image: './assets/color_purple_field.jpg',
             description: 'The movement in this novel describes the agency of women, which is directly tied to their socioeconomic status. Shug Avery is able to move frequently based on her elavated status. Likewise, Celie moves up social status as is able to move houses due to her growing business and inheritance. The women are able to travel when they please which is more than one can say about male agency in this novel.',
             location: {
@@ -172,7 +172,7 @@ var config = {
             id: 'chapter-end of AILD',
             alignment: 'Centered',
             hidden: false,
-            title: 'Thematic Relation',
+            title: 'Thematic Agency',
             image: 'assets/AILDwagon.jpg',
             description: 'This novel discusses familial ties, grief, and travel. How the family travels paints a picture of agency especially in women as Dewel Dell does not explore life outside of Yoknapatawpha (Oxford for the sake of mapping), nor is she able to. This is because of her socioeconomic status as her family is poor and she is pregnant, along with her and her mother being at the whim of the men in her family.',
             location: {
@@ -220,7 +220,7 @@ var config = {
             id: 'chapter-themes/ending',
             alignment: 'left',
             hidden: false,
-            title: 'Movement',
+            title: 'Tracking Movement',
             image: 'assets/PorchTEWWG.jpg',
             description: 'This novel has the most data points across all of the novels. Janie startrs her journey in Eatonville. After her marriage ends, Janie moves with Tea Cake to Everglades, southern Florida. Here Tea Cake works in Orlando, however, Everglades is where the hurricane strikes and relocates the two. Janie, after trail, returns to Eatonville and spends her life there.',
             location: {
