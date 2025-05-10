@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Women Agency in the South',
             image: 'assets/Queens.jpg',
-            description: 'Southern literature takes the reader through a journey back in time and throughout the southern region. This movement when mapped out shows a visual story of female agency in this time. This essay aims to take a look through the movement of three notable novels that have defined southern literature; The Color Purple, As I Lay Dying, and Their Eyes Were Watching God. Each book explores moving across the south for different reasons, however, the movement of women across their socio-economic status paints a picture of their agency in their time period.',
+            description: 'Southern literature takes the reader through a journey back in time and throughout the southern region. This movement when mapped out shows a visual story of female agency in this time. This essay aims to take a look through the movement of three notable novels that have defined southern literature; <em>The Color Purple, As I Lay Dying</em>, and <em>Their Eyes Were Watching God</em>. Each book explores moving across the south for different reasons, however, the movement of women across their socio-economic status paints a picture of their agency in their time period.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple',
             image: './assets/color_purple_cover.jpg',
-            description: 'The Color Purple is a beautiful novel telling the story of Celie and her life, along with her sister Nettie through the form of letters to God. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery and the support from her sister overseas.',
+            description: '<em>The Color Purple</em> is a beautiful novel telling the story of Celie and her life, along with her sister Nettie through the form of letters to God. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery and the support from her sister overseas.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -125,7 +125,7 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying',
             image: 'assets/AILD_cover.jpg',
-            description: 'As I Lay Dying is a story of a southern family troubled with grief and structural family issues going through the trials of burrying Addie Bundren, wife and mother of five children. The book records their difficult journey to Jefferson Mississippi, to bury Addie, as per her dying request. The family meets several obsticles on their way and after nine days post mortum Addie is finally laid to rest and the family structure is just as fractured as it was in the beginning.',
+            description: '<em>As I Lay Dying</em> is a story of a southern family troubled with grief and structural family issues going through the trials of burrying Addie Bundren, wife and mother of five children. The book records their difficult journey to Jefferson Mississippi, to bury Addie, as per her dying request. The family meets several obsticles on their way and after nine days post mortum Addie is finally laid to rest and the family structure is just as fractured as it was in the beginning.',
             location: {
                 center: [-89.4912723,34.28465033], 
                 zoom: 6.5,
@@ -150,7 +150,7 @@ var config = {
             hidden: false,
             title: 'Tracking Movement',
             image: 'assets/dead bundren.jpg',
-            description: 'As I lay Daying stays relatively stationary only traveling about 40 miles outside of their home city and then back, however, the eldest son Darl, is sent to a mental hosptial in southern Mississipi. The only women in the novel are younger sister Dewey Dell, and deceased mother Addie Bundren, who both make their way to Jefferson Mississippi. However, they are both at the whim of the men in the story. There isn"t much movement here and that speaks to their social status and their freedoms. Darl being institutionalized is the furthest anyone in the family travles and was against his will.',
+            description: '<em>As I lay Daying</em> stays relatively stationary only traveling about 40 miles outside of their home city and then back, however, the eldest son Darl, is sent to a mental hosptial in southern Mississipi. The only women in the novel are younger sister Dewey Dell, and deceased mother Addie Bundren, who both make their way to Jefferson Mississippi. However, they are both at the whim of the men in the story. There isn"t much movement here and that speaks to their social status and their freedoms. Darl being institutionalized is the furthest anyone in the family travles and was against his will.',
             location: {
                 center: [-89.512580,34.3697383], 
                 zoom: 6.5,
@@ -173,7 +173,7 @@ var config = {
             alignment: 'Centered',
             hidden: false,
             title: 'Thematic Relation',
-            image: 'assets/keezel hall.jpg',
+            image: 'assets/AILDwagon.jpg',
             description: 'This novel discusses familial ties, grief, and travel. How the family travels paints a picture of agency especially in women as Dewel Dell does not explore life outside of Yoknapatawpha (Oxford for the sake of mapping), nor is she able to. This is because of her socioeconomic status as her family is poor and she is pregnant, along with her and her mother being at the whim of the men in her family.',
             location: {
                 center: [-89.512580,34.3697383], 
@@ -198,7 +198,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes were watching God',
             image: 'assets/TEWWG coverrr.jpg',
-            description: 'Their Eyes Were Watching God is a story that follows Janie Crawford in her search for love across Florida in the midst of segregation. After being promised to Logan Killicks, Janie is whicked away by the charming Joe Starks. However, after years of marriage and abuse with Joe, he then dies leaving her to find Tea Cake who gives her the love she has desiered. Later their house floods from an unexpectedly horrific hurricane that relocates Janie and her love interest Tea Cake. After the death of Tea Cake Janie faces trail and recounts her life to a friend from her hometown.',
+            description: '<em>Their Eyes Were Watching God</em> is a story that follows Janie Crawford in her search for love across Florida in the midst of segregation. After being promised to Logan Killicks, Janie is whicked away by the charming Joe Starks. However, after years of marriage and abuse with Joe, he then dies leaving her to find Tea Cake who gives her the love she has desiered. Later their house floods from an unexpectedly horrific hurricane that relocates Janie and her love interest Tea Cake. After the death of Tea Cake Janie faces trail and recounts her life to a friend from her hometown.',
             location: {
                 center: [-81.38643808,28.6185791], 
                 zoom: 6.5,
@@ -246,7 +246,7 @@ var config = {
             hidden: false,
             title: 'Thematic Agency',
             image: 'assets/TEWWG conclusion.jpg',
-            description: 'Their Eyes Were Watching God has the most agency amoung all the novels. Janie specifically, relishes in the feeling of being free and happy, this is why she runs off with Joe, and later on Tea Cake. Janie starts off the novel already in a well off social status, after her marriage with Joe she moves up socio-economic status and this is seen by how much agency she has. Janie travels althroughout Florida. Her status is part of the reason why Tea Cake is so mobile, as they both go to Orlando for Tea Cake to gamble Janies money. In the end the hurricane being responsible for her relocation in Everglades, but takes it upon herself to move back to Eatonville.',
+            description: '<em>Their Eyes Were Watching God</em> has the most agency amoung all the novels. Janie specifically, relishes in the feeling of being free and happy, this is why she runs off with Joe, and later on Tea Cake. Janie starts off the novel already in a well off social status, after her marriage with Joe she moves up socio-economic status and this is seen by how much agency she has. Janie travels althroughout Florida. Her status is part of the reason why Tea Cake is so mobile, as they both go to Orlando for Tea Cake to gamble Janies money. In the end the hurricane being responsible for her relocation in Everglades, but takes it upon herself to move back to Eatonville.',
             location: {
                 center: [-81.38643808,28.6185791], 
                 zoom: 6.5,
@@ -270,7 +270,7 @@ var config = {
             hidden: false,
             title: 'Conclusion',
             image: 'assets/Realer queens.jpg',
-            description: 'These books describe the movement of several important charcters that paints a picture of agency specifically in women. As seen in As I Lay Dying, agency was limited by the familial struggles and the social status demonstrated as almost all family members, regardless of gender, are constricted from free movement. This futhers when looking at The Color Purple, as social status increases more momvement is made. Celie, Shug Avery, and Nettie all have more agency in the men in their stories as they often stay stationary. Finally, in Their Eyes Were Watching God, Janie has the most movement as she is considered much more wealthy and travels much more than her male counterparts in the novel. ',
+            description: 'These books describe the movement of several important charcters that paints a picture of agency specifically in women. As seen in <em>As I Lay Dying</em>, agency was limited by the familial struggles and the social status demonstrated as almost all family members, regardless of gender, are constricted from free movement. This futhers when looking at <em>The Color Purple</em>, as social status increases more momvement is made. Celie, Shug Avery, and Nettie all have more agency in the men in their stories as they often stay stationary. Finally, in <em>Their Eyes Were Watching God</em>, Janie has the most movement as she is considered much more wealthy and travels much more than her male counterparts in the novel. ',
             location: {
                 center: [-90.3150946, 38.6605671], 
                 zoom: 3,
