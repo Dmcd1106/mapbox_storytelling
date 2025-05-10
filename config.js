@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple',
             image: './assets/color_purple_cover.jpg',
-            description: 'The Color Purple is a beautiful novel telling the story of Celie and her life along with her sister Nettie through Letters. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery.',
+            description: 'The Color Purple is a beautiful novel telling the story of Celie and her life, along with her sister Nettie through the form of letters to God. This books touches on themes of queerness, womanism, patriarchy, and family as Celie goes through several life altering challenges and comes out the otherside with the help of her friend Shug Avery and the support from her sister overseas.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
