@@ -150,7 +150,7 @@ var config = {
             hidden: false,
             title: 'Tracking Movement',
             image: 'assets/dead bundren.jpg',
-            description: '<em>As I lay Daying</em> stays relatively stationary only traveling about 40 miles outside of their home city and then back, however, the eldest son Darl, is sent to a mental hosptial in southern Mississipi. The only women in the novel are younger sister Dewey Dell, and deceased mother Addie Bundren, who both make their way to Jefferson Mississippi. However, they are both at the whim of the men in the story. There isn"t much movement here and that speaks to their social status and their freedoms. Darl being institutionalized is the furthest anyone in the family travles and was against his will.',
+            description: '<em>As I lay Daying</em> stays relatively stationary only traveling about 40 miles outside of their home city and then back, however, the eldest son Darl, is sent to a mental hosptial in southern Mississipi. The only women in the novel are younger sister Dewey Dell, and deceased mother Addie Bundren, who both make their way to Jefferson Mississippi. There isn"t much movement here and that speaks to their social status and their freedoms. Darl being institutionalized is the furthest anyone in the family travles and was against his will.',
             location: {
                 center: [-89.512580,34.3697383], 
                 zoom: 6.5,
