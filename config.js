@@ -106,7 +106,7 @@ var config = {
             hidden: false,
             title: 'End',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'The movement in this novel describes the agency of women, which is directly tied to their socioeconomic status. Shug Avery is able to move frequently based on her elavated status. Likewise, Celie moves up social status as is able to move houses due to her growing business and inheritance. The women are able to travel when they please which is more than one can say about male agency in this novel.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
