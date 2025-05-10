@@ -222,7 +222,7 @@ var config = {
             hidden: false,
             title: 'Movement',
             image: 'assets/PorchTEWWG.jpg',
-            description: 'This novel has the most data points across all of the novels. Janie startrs her journey in Eatonville. After her marriage ends, Janie moves with Tea Cake to Everglades, southern Florida, here Tea Cake makes frequent trips to Orlando, however, Everglades is where the hurricane strikes and relocates the two. Janie, after trail, returns to Eatonville and spends her life there.',
+            description: 'This novel has the most data points across all of the novels. Janie startrs her journey in Eatonville. After her marriage ends, Janie moves with Tea Cake to Everglades, southern Florida. Here Tea Cake works in Orlando, however, Everglades is where the hurricane strikes and relocates the two. Janie, after trail, returns to Eatonville and spends her life there.',
             location: {
                 center: [-80.44334557,26.8347516], 
                 zoom: 6.5,
@@ -246,7 +246,7 @@ var config = {
             hidden: false,
             title: 'Thematic Agency',
             image: 'assets/keezel hall.jpg',
-            description: 'Description of TEWWG...',
+            description: 'Their Eyes Were Watching God has the most agency amoung all the novels. Janie specifically, relishes in the feeling of being free and happy, this is why she runs off with Joe, and later on Tea Cake. Janie starts off the novel already in a well off social status, after her marriage with Joe she moves up socio-economic status and this is seen by how much agency she has. Janie travels althroughout Florida. Her status is part of the reason why Tea Cake is so mobile, as they both go to Orlando for Tea Cake to gamble Janies money. In the end the hurricane being responsible for her relocation in Everglades, but takes it upon herself to move back to Eatonville.',
             location: {
                 center: [-81.38643808,28.6185791], 
                 zoom: 6.5,
@@ -270,7 +270,7 @@ var config = {
             hidden: false,
             title: 'Conclusion',
             image: 'assets/Realer queens.jpg',
-            description: 'These books describe the movement of several important charcters that paints a picture of agency specifically in women. As seen in As I Lay Dying, agency was limited by the familial struggles and the social status demonstrated. This futhers when looking at The Color Purple, as social status increases more momvement is made.',
+            description: 'These books describe the movement of several important charcters that paints a picture of agency specifically in women. As seen in As I Lay Dying, agency was limited by the familial struggles and the social status demonstrated as almost all family members, regardless of gender, are constricted from free movement. This futhers when looking at The Color Purple, as social status increases more momvement is made. Celie, Shug Avery, and Nettie all have more agency in the men in their stories as they often stay stationary. Finally, in Their Eyes Were Watching God, Janie has the most movement as she is considered much more wealthy and travels much more than her male counterparts in the novel. ',
             location: {
                 center: [-90.3150946, 38.6605671], 
                 zoom: 3,
