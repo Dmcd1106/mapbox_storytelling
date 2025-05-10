@@ -245,7 +245,7 @@ var config = {
             alignment: 'Centered',
             hidden: false,
             title: 'Thematic Agency',
-            image: 'assets/keezel hall.jpg',
+            image: 'assets/TEWWG conclusion.jpg',
             description: 'Their Eyes Were Watching God has the most agency amoung all the novels. Janie specifically, relishes in the feeling of being free and happy, this is why she runs off with Joe, and later on Tea Cake. Janie starts off the novel already in a well off social status, after her marriage with Joe she moves up socio-economic status and this is seen by how much agency she has. Janie travels althroughout Florida. Her status is part of the reason why Tea Cake is so mobile, as they both go to Orlando for Tea Cake to gamble Janies money. In the end the hurricane being responsible for her relocation in Everglades, but takes it upon herself to move back to Eatonville.',
             location: {
                 center: [-81.38643808,28.6185791], 
