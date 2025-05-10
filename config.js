@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Women Agency in the South',
             image: 'assets/Queens.jpg',
-            description: 'Throughout southern literature the reader takes a journey back in time and throughout the southern region. This movement when mapped out shows a visual story of agency of the women in this time. This essay aims to take a look through the movement of three notable novels that define Southern LIterature; The Color Purple, As I Lay Dying, and Their Eyes Were Watching God. Each book explores moving across the south for different reasons, however, the movement of women across their socio-economic status paints a picture of their agency in their time period.',
+            description: 'Southern literature takes the reader through a journey back in time and throughout the southern region. This movement when mapped out shows a visual story of female agency in this time. This essay aims to take a look through the movement of three notable novels that have defined southern literature; The Color Purple, As I Lay Dying, and Their Eyes Were Watching God. Each book explores moving across the south for different reasons, however, the movement of women across their socio-economic status paints a picture of their agency in their time period.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
