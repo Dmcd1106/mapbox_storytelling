@@ -222,7 +222,7 @@ var config = {
             hidden: false,
             title: 'Movement',
             image: 'assets/PorchTEWWG.jpg',
-            description: 'This novel has the most data points across all of the novels. Janie startrs her journey in [xxx]. After her first relationship ends, Janie moves with Tea Cake to southern Florida where the hurricane strikes and relocates after that.',
+            description: 'This novel has the most data points across all of the novels. Janie startrs her journey in Eatonville. After her marriage ends, Janie moves with Tea Cake to Everglades, southern Florida, here Tea Cake makes frequent trips to Orlando, however, Everglades is where the hurricane strikes and relocates the two. Janie, after trail, returns to Eatonville and spends her life there.',
             location: {
                 center: [-80.44334557,26.8347516], 
                 zoom: 6.5,
